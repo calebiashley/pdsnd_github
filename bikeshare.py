@@ -173,8 +173,8 @@ def user_stats(df, city):
         print("\nThis took %s seconds." % (time.time() - start_time))
         print('-'*40)
     else:
-        print('Sorry but no birth year stats can be calculated with Washington')
-
+        print('\nSorry but no birth year stats can be calculated with Washington\n')
+        print('-'*40)
 def raw_data(df):
     x = 0
     while True:
