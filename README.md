@@ -5,7 +5,7 @@ July 20th, 2020
 Bikeshare Data Program
 
 ### Description
-Describe what your project is about and what it does
+Uses three csv files to look at stats
 
 ### Files used
 Include the files used
