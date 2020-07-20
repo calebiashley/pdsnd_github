@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+July 20th, 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Data Program
 
 ### Description
-Describe what your project is about and what it does
+Uses three csv files to look at stats
 
 ### Files used
-Include the files used
+washington.csv, new_york_city.csv, chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/pdsnd_github was forked for this project
