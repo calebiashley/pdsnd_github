@@ -175,6 +175,7 @@ def user_stats(df, city):
     else:
         print('\nSorry but no birth year stats can be calculated with Washington\n')
         print('-'*40)
+
 def raw_data(df):
     x = 0
     while True:
@@ -186,6 +187,7 @@ def raw_data(df):
             break
         else:
             print('\nSorry I didn\'t get that')
+
 def main():
     while True:
         city, month, day = get_filters()
